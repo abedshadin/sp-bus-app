@@ -12,7 +12,9 @@ const Bus = (props) => {
           <div className="wrapper bg-gray-400 antialiased text-gray-900 rounded-lg">
 <div className='img'>
     
-    <img src={b_img_out} alt=" random imgee" className="w-full object-center object-cover  rounded shadow-md" />    
+<div class="flex justify-center md:justify-center pt-5">
+    <img class="object-center object-cover rounded-full border-2 border-white-500 card-img" src={b_img_out}/>
+  </div> 
     
  <div className="relative px-4 -mt-16  ">
    <div className="bg-white p-6 rounded-lg shadow-lg">
