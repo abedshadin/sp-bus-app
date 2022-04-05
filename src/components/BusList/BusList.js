@@ -16,12 +16,12 @@ const BusList = () => {
     };
     useEffect( () =>{
 
-        fetch('https://abedbd.xyz/data.json')
+        fetch('https://raw.githubusercontent.com/abedshadin/sp-bus-app/main/data.json')
         .then(res => res.json())
         .then(data => {
             const match = data.filter(d => d.b_name.toLowerCase().includes(searchText.toLowerCase()));
             setSearchResult(match);
-            console.log(data);
+            
         })
     }, [searchText])
 
