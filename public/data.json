@@ -1,156 +1,245 @@
 [
-    {
-        "b_name": "Sherpur Tennis Club",
-        "b_img_out": "https://i.imgur.com/0xNPDB8.jpg",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "1"
-      },
-      {
-        "b_name": "Sadika Enterprise",
-        "b_img_out": "https://i.imgur.com/gj0Mw8q.jpg",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka." ,
-        "b_id": "2"
-      },
-      {
-        "b_name": "Sherpur Red Line",
-        "b_img_out": "https://i.imgur.com/jpscr8S.jpg",
-        "b_img_out_credit": "Rejaul Karim",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "3"
-        
-      },
-      {
-        "b_name": "Chamber Of Commerce",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "4"
-      },
-      {
-        "b_name": "Women Chamber Of Commerce",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "5"
-      },
-      {
-        "b_name": "Sherpur Zilla Kriya Sangstha",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "6"
-      },
-      {
-        "b_name": "AC Deluxe",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "7"
-      },
-      {
-        "b_name": "AC Super",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "8"
-      },
-      {
-        "b_name": "Sonar Bangla",
-        "b_img_out": "www",
-        "b_img_out_credit": "Mirza Sagor",
-        "b_ticket_price": "320",
-        "b_img_in": "www",
-        "b_type": "Non AC",
-        "b_seat": "40",
-        "b_counter_no": "01794588580",
-        "b_super_no": "01614588580",
-        "b_sp_time": "12:45 AM",
-        "b_dk_time": "01:05 PM",
-        "b_route": "Sherpur-Dhaka-Sherpur",
-        "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
-        "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
-        "b_id": "9"
-      }
-]
+  {
+  "b_name": "Sherpur Tennis Club",
+  "b_img_out": "http://i.imgur.com/0xNPDB8.jpg",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "http://i.imgur.com/0xNPDB8.jpg",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+  "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+  "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+  "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "1"
+  },
+  {
+  "b_name": "Sadika Enterprise",
+  "b_img_out": "https://i.imgur.com/gj0Mw8q.jpg",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "2"
+  },
+  {
+  "b_name": "Sherpur Red Line",
+  "b_img_out": "https://i.imgur.com/jpscr8S.jpg",
+  "b_img_out_credit": "Rejaul Karim",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "3"
+  },
+  {
+  "b_name": "Chamber Of Commerce 2",
+  "b_img_out": "https://i.imgur.com/9D2XypN.jpg",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "4"
+  },
+  {
+  "b_name": "Women Chamber Of Commerce",
+  "b_img_out": "www",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "5"
+  },
+  {
+  "b_name": "Sherpur Zilla Kriya Sangstha",
+  "b_img_out": "www",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "6"
+  },
+  {
+  "b_name": "AC Deluxe",
+  "b_img_out": "www",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "7"
+  },
+  {
+  "b_name": "AC Super",
+  "b_img_out": "www",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "8"
+  },
+  {
+  "b_name": "Sonar Bangla",
+  "b_img_out": "www",
+  "b_img_out_credit": "Mirza Sagor",
+  "b_ticket_price": "320",
+  "b_img_in": "www",
+  "b_type": "Non AC",
+  "b_seat": "40",
+  "b_counter_no": "01794588580",
+  "b_super_no": "01614588580",
+   "b_sp_time": {
+    "dep": "12:45 AM",
+    "arr": "06:00 AM"
+  },
+    "b_dk_time": {
+    "dep": "01:05 PM",
+    "arr": "07:00 PM"
+  },
+ "b_route": 
+   { "from": "Sherpur",
+    "to": "Dhaka"
+  }
+  ,
+  "b_sp_loc": "Near Sampad Plaza, Raghunath Bazar, Newmarket, Sherpur Town, Sherpur.",
+  "b_dk_loc": "Bangabondhu Stadium Market, Gulistan, Dhaka.",
+  "b_id": "9"
+  }
+  ]
